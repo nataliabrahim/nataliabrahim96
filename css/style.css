@@ -11,7 +11,7 @@
 }
 
 .btn-primary:hover {
-    background-color: blanchedalmond;
+    background-color: #46388f;
 }
 
 .btn-default {
@@ -19,3 +19,4 @@
     background-color: #fff;
     border-color: #705ECE;
 }
+
